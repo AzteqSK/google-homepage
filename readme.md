@@ -1,0 +1,1 @@
+This is my first attempt at creating a Google-style homepage. With any luck, it goes well!
